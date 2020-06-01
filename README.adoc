@@ -1,0 +1,10 @@
+= Quick Dataflow app sample
+
+Not Supported.   Just for demo purposes.
+
+== Build
+`mvn clean package`
+
+== Run
+
+`java -jar target/spring-cloud-dataflow-server-2.5.1.RELEASE.jar`
